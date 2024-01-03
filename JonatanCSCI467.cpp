@@ -1,6 +1,5 @@
 /*
 Jonatan Ramirez-Marroquin
-z1912344
 CSCI 467 Project Part Three
 Professor Fatima
 */
